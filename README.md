@@ -32,12 +32,10 @@
 
 <br/>
 
-<br/>
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://portfolio-sunny-mxsunny.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.sunny%20more.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://portfolio-sunny-mxsunny.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.sunnymore.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/mxsunny10/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sunny%20More-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:mxsunny10@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mxsunny10@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
