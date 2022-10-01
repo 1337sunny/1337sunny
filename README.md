@@ -4,8 +4,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; a passionate self-taught full stack web developer and a software developer from MIT, Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science at MIT CORER.
+- 🤔 &nbsp; a passionate self-taught full stack web developer and a software developer from MIT CORER, Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Engineering in Computer Science from MIT.
 - 🌱 &nbsp; my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
