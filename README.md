@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="800" height="320">
 
-<h3> Hey there! I'm Sunny.</h3>
+<h3>Hello World, I'm Sunny</h3>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
