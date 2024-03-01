@@ -4,9 +4,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; A passionate self-taught software developer from MIT CORER, Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Computer Science Engineer from MIT.
-- 🌱 &nbsp; My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+I am a Computer Science Engineer, having completed my engineering from MIT College.
+Currently, I work as a Software Engineer at Microworld Software Solutions.
+My expertise lies in Java, Spring Framework, Spring Boot, Hibernate, microservices, REST APIs, relational and non-relational databases, and cloud technologies for backend development.
+I also have experience with JavaScript for frontend development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
