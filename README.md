@@ -42,7 +42,6 @@
   ![Visual studio code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse&logoColor=007ACC)
   ![Spring tool suite](https://img.shields.io/badge/-Spring%20Tool%20Suite-333333?style=flat&logo=spring)
-  ![Intellij](https://img.shields.io/badge/-Intellij-333333?style=flat&logo=intellij&logoColor=007ACC)
 
 <br/>
 
