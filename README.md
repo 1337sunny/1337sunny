@@ -51,4 +51,4 @@ I’m a passionate and dedicated software engineer, driven by curiosity and a co
 <a href="mailto:mxsunny10@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mxsunny10@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [mxsunny](https://github.com/mxsunny)
+⭐️ From [Sunny](https://github.com/1337sunny)
