@@ -47,8 +47,8 @@ I’m a passionate and dedicated software engineer, driven by curiosity and a co
 
 <p align="center">
 <a href="https://sunny-more.vercel.app"><img alt="Website" src="https://img.shields.io/badge/Website-www.sunnymore.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/mxsunny10"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sunny%20More-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:mxsunny10@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mxsunny10@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/1337sunny"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sunny%20More-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:sunnymore1337@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sunnymore1337@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [Sunny](https://github.com/1337sunny)
